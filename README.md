@@ -1,1 +1,1 @@
-<img src="first1.png" alt="Alt text" width="200"/>
+<img src="first1.png" alt="Alt text" width="50"/>
